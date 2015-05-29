@@ -1,0 +1,14 @@
+
+2008-12-20 exploit-suggester v0.3
+
+* Added NSPR local root exploit for Sol 10
+
+2008-11-09 exploit-suggester v0.2
+
+* Bug fix: Now works even when showrev -p lists multiple revisions
+           for each patch - used to give a load of false positives
+
+2007-09-30 exploit-suggester v0.1
+
+* Initial public release
+
